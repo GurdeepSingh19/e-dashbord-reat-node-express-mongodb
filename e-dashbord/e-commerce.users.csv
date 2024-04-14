@@ -1,0 +1,12 @@
+_id,name,email,password,__v
+661a6665e3a54dfb04b5c509,test,test@test.com,test,
+661a7ad5b1d993b0ebfac8c7,Deep,deep@test.com,deep123,0
+661a8112103e1d7565ca7edf,testt,tetttt@test.com,123456789,0
+661a8217103e1d7565ca7ee1,rahul,rahul@test.com,123456,0
+661a86d3103e1d7565ca7ee3,rohit,rohit@test.com,abc123,0
+661a895a103e1d7565ca7ee5,poonam,poonam@test.com,poonam123,0
+661a8b3c103e1d7565ca7ee7,nitin,nitin@test.com,123456,0
+661a8c72103e1d7565ca7ee9,test2,test2@gmail.com,1234567,0
+661bc31500e6af46db9047bf,deepuu,deepu@test.com,deepu,0
+661bc43500e6af46db9047c5,nitin,nitin@test.com,nitin,0
+661bc48600e6af46db9047c9,nini,nini@test.com,nini,0

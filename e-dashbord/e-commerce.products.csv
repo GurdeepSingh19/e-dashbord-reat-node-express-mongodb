@@ -1,0 +1,8 @@
+_id,name,price,category,userId,company,__v
+661a9ded86d3cc34b52ba6ca,M40,465,mobile,661a86d3103e1d7565ca7ee3,samsung,0
+661a9e4f86d3cc34b52ba6cc,M30,399,mobile,661a86d3103e1d7565ca7ee3,samsung,0
+661b0d5886d3cc34b52ba6d0,14 pro max,1299,mobile,661a7ad5b1d993b0ebfac8c7,Apple,0
+661b106e86d3cc34b52ba6d7,12 pro,899,mobile,661a7ad5b1d993b0ebfac8c7,Apple,0
+661ba81f423a4e742a68e0af,14 pro,1095,mobile,661a7ad5b1d993b0ebfac8c7,Apple,0
+661bcd70103c61d3242688aa,Nokia700,565,mobile,661a6665e3a54dfb04b5c509,Nokia,0
+661bcdd8103c61d3242688ae,Samsung S23,1129,mobile,661a6665e3a54dfb04b5c509,Samsung,0
